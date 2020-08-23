@@ -5535,9 +5535,9 @@ a {
 	left: 326px;
 	top: 793px;
 	position: absolute;
-	overflow: hidden;
+	overflow: visible;
 	width: 456px;
-	height: 18px;
+	height: 36px;
 	text-align: left;
 	font-family: Josefin Slab;
 	font-style: normal;
@@ -5641,9 +5641,9 @@ a {
 	left: 115px;
 	top: 6030px;
 	position: absolute;
-	overflow: hidden;
+	overflow: visible;
 	width: 456px;
-	height: 18px;
+	height: 32px;
 	text-align: left;
 	font-family: Josefin Slab;
 	font-style: normal;
